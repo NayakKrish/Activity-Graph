@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div style={{ padding: "1%" }}>
-      <h2>SustLabsAssignment</h2>
+      <h2>Activity Graph</h2>
       <table cellSpacing={15}>
         <thead>
           <tr>
